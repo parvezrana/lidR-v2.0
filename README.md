@@ -37,6 +37,3 @@ with a `LAScatalog`. Now, `lastrees`, `lasfilterdecimate`, `lasnormalize`, `tree
     * There is only one `tree_detection` function that implements a local maximum filter. I currently can't add new algorithms with breaking retro-compatibility.
     
 Also algorithms will be improved so they are faster, and new algorithms and functions will be made available (but this is another question...)
-    
-
-lidR v2.0, a major re-engineering of the lidR package
