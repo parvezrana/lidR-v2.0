@@ -1,4 +1,4 @@
-This repo does not contain any code. It is a repo to discuss `lidR v2.0`, a major re-engineering of the `lidR` package.
+This repo does not contain any code. It is a repo to discuss `lidR v2.0`, a major re-engineering of the `lidR` package. 
 
 # Context
 
@@ -24,6 +24,8 @@ I created this repo to discuss with users about what `lidR v2.0` should be. Gith
 1. I know what I want to do but I would like to know what you would like to see in the future of `lidR`. Here I'm talking about general capabilities rather than specific algorithms (see also next section)
 2. I know how I want to redesign some stuff but I will explain my plan first in an issue and I hope to get users' feedback and advice. This way I will not be stuck anymore with features I can't make because of a weak design that does not consider future potential use.
 3. Write down my ideas somewhere in a more organized way.
+
+Fill free to open issues and give feedback in open ones
 
 # What will be the main changes in `lidR v2.0`?
 
